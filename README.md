@@ -1,3 +1,8 @@
+This repo which originally housed only data for defocuscam, has been modified to contain all of the defocus-cam project files.
+Authors - Christian Foley, Kristina Monakhova, Kyrollos Yanny
+
+
+
 # defocuscamdata-cspaces
 A collection of hyperspectral images of fruit and related matfiles taken from: https://zenodo.org/record/2611806
 
