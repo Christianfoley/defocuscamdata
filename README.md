@@ -5,4 +5,3 @@ For the following images:<br>
     - Spatial resolution: ~57px/deg by 800px <br>
     - Spectral resolution: ~1.12nm/frame <br>
 
-NOTE: 
